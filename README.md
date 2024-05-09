@@ -1,15 +1,10 @@
-<video width="320" height="240" controls>
-  <source src=https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/786a550f-cf22-4cd7-9f92-c96001fe99ae">
-  Your browser does not support the video tag.
-</video>
+https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/786a550f-cf22-4cd7-9f92-c96001fe99ae">
 
 
-<video width="320" height="240" controls>
-  <source src=https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/91d614b2-d216-49ba-a2fc-7bea2be2ae56">
-  Your browser does not support the video tag.
-</video>
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1z9fC68XOQdY81t93IHWJSx4cc4_ewA0L/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/91d614b2-d216-49ba-a2fc-7bea2be2ae56">
+
+
 
 :fire::fire::fire::fire::dash::dash::dash::fire::fire::fire::fire:
 ## NEW Fire and Smoke Dataset for Object Detection
