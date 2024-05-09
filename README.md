@@ -22,3 +22,7 @@ In this repository, I introduce a  $\color{red}{\textsf{NEW Fire and Smoke Datas
 ## Experimental results
 
 The experimental results are stored on [Google Drive](https://drive.google.com/drive/folders/1yrOg-DV_fkiu2aWtRi6ftH_v4MGoTtEd?usp=drive_link) and are publicly accessible.
+
+## Roboflow Dataset
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b3cf00bc-3e1a-458b-9318-4154131c6b32)
