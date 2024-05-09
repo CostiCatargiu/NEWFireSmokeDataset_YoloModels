@@ -1,10 +1,14 @@
 
 
-https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/55b8763e-82c6-4f0d-910d-790e31936cdf
+
+https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1eb16936-a51d-4670-9938-d00686cfc406
+
+
+https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ad516cfb-a181-413b-9a38-334d733e8d0d
 
 
 
-https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/f3e214ba-a2cb-4f4d-9439-72fa1e35e4f7
+
 
 
 
