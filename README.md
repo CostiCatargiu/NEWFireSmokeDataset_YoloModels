@@ -25,11 +25,11 @@ The experimental results are stored on [Google Drive](https://drive.google.com/d
 
 ## Roboflow Dataset
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/01e0ec1f-e9af-4c64-b38f-7ff495feed96)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1e02db0a-0ff6-4f60-ab93-9ba791481e00)
 
 Configuration setup used for trainig and testing the proposed Yolo models
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/91538fea-8266-4d86-8e82-6c5fb96aa043)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/6e9d917a-23f5-42f2-ada7-d42ddd500d9c)
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/dc34aaa9-6ffe-428a-ae62-898b82bed9a6)
 
