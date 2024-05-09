@@ -29,7 +29,7 @@ The experimental results are stored on [Google Drive](https://drive.google.com/d
 
 Configuration setup used for trainig and testing the proposed Yolo models
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/c37788c8-1879-499c-8f44-c359821a965b)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/91538fea-8266-4d86-8e82-6c5fb96aa043)
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/dc34aaa9-6ffe-428a-ae62-898b82bed9a6)
 
