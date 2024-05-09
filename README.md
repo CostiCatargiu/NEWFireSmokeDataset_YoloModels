@@ -1,7 +1,8 @@
 
 
-
 https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/786a550f-cf22-4cd7-9f92-c96001fe99ae
+
+https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/91d614b2-d216-49ba-a2fc-7bea2be2ae56
 
 
 :fire::fire::fire::fire::dash::dash::dash::fire::fire::fire::fire:
