@@ -23,20 +23,24 @@ def download_progress(count, block_size, total_size):
         print("\rDownloading...", end="", flush=True)
 
 
-def modify_data_yaml(merged_path):
+def modify_data_yaml(merged_path, model):
     # Modify the data.yaml file
     data_yaml_path = os.path.join(merged_path, "data.yaml")
     if os.path.exists(data_yaml_path):
         with open(data_yaml_path, 'r') as file:
             lines = file.readlines()
 
-        lines[0] = f"train: {os.path.join(merged_path, 'train', 'images')}\n"
-        lines[1] = f"val: {os.path.join(merged_path, 'valid', 'images')}\n"
-        lines[2] = f"test: {os.path.join(merged_path, 'test', 'images')}\n"
+        if model == "yolov6":
+            lines[0] = f"train: {os.path.join(merged_path, 'images', 'train')}\n"
+            lines[1] = f"val: {os.path.join(merged_path, 'images', 'valid')}\n"
+            lines[2] = f"test: {os.path.join(merged_path, 'images', 'test')}\n"
+        else:
+            lines[0] = f"train: {os.path.join(merged_path, 'train', 'images')}\n"
+            lines[1] = f"val: {os.path.join(merged_path, 'valid', 'images')}\n"
+            lines[2] = f"test: {os.path.join(merged_path, 'test', 'images')}\n"
 
         with open(data_yaml_path, 'w') as file:
             file.writelines(lines)
-
 
 def download_dataset(model, base_dir):
     # Define URLs and corresponding paths for different models
@@ -70,38 +74,28 @@ def download_dataset(model, base_dir):
 
     # Loop through each (URL, path) tuple for the specified model
     for url, save_path in model_info[model]:
-        # Create the directory if it doesn't exist
         os.makedirs(save_path, exist_ok=True)
-
         try:
-            # Get the size of the dataset
             dataset_size = urllib.request.urlopen(url).info().get('Content-Length', -1)
             dataset_size = int(dataset_size) if dataset_size != -1 else -1
-
-            # Download the zip file with progress tracking
             urllib.request.urlretrieve(url, save_path + "download.zip", reporthook=download_progress)
             print("\n")
-
             # Extract the contents to the specified path
             with zipfile.ZipFile(save_path + "download.zip", 'r') as zip_ref:
                 zip_ref.extractall(save_path)
 
-            # Remove the downloaded zip file
             os.remove(save_path + "download.zip")
-
             print("Dataset downloaded and extracted successfully at:", save_path)
-            # print("Size of dataset:", f"{convert_bytes_to_mb(dataset_size):.2f} MB")
-
-            # Define the name of the merged folder
             merged_folder_name = model
             merged_path = os.path.join(base_dir, merged_folder_name)
 
-            # Create new folder for the merged dataset
             os.makedirs(merged_path, exist_ok=True)
-
-            # Define subfolders in the merged dataset
-            subfolders = ['train', 'valid', 'test']
-            subsubfolders = ['images', 'labels']
+            if model == "yolov6":
+                subfolders = ['images', 'labels']
+                subsubfolders = ['train', 'test', 'valid']
+            else:
+                subfolders = ['train', 'valid', 'test']
+                subsubfolders = ['images', 'labels']
 
             # Copy files from original folders to merged dataset folder
             for folder in subfolders:
@@ -120,19 +114,12 @@ def download_dataset(model, base_dir):
             data_yaml_src = os.path.join(save_path, "data.yaml")
             if os.path.exists(data_yaml_src):
                 shutil.copy(data_yaml_src, merged_path)
-
-            # Modify the data.yaml file
-            modify_data_yaml(merged_path)
-
+                modify_data_yaml(merged_path, model)
             print("Files copied to merged dataset successfully at:", merged_path)
-
-            # Delete original folders
-            # shutil.rmtree(save_path)
-
-            print("Original folders deleted successfully.")
 
         except Exception as e:
             print("Error occurred:", e)
+
 
 
 def main():
