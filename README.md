@@ -1,3 +1,9 @@
+
+
+
+https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/786a550f-cf22-4cd7-9f92-c96001fe99ae
+
+
 :fire::fire::fire::fire::dash::dash::dash::fire::fire::fire::fire:
 ## NEW Fire and Smoke Dataset for Object Detection
 :fire::fire::fire::fire::dash::dash::dash::fire::fire::fire::fire:
