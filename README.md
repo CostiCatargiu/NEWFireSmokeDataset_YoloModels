@@ -33,4 +33,4 @@ Configuration setup used for trainig and testing the proposed Yolo models
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/dc34aaa9-6ffe-428a-ae62-898b82bed9a6)
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/f15334ba-ce71-4c5c-b6f0-a75f4c125f81)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/0038819e-31d0-4f22-a014-c531fe6a8dc3)
