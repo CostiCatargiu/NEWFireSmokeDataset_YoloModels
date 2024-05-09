@@ -9,7 +9,7 @@
   Your browser does not support the video tag.
 </video>
 
-
+https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/91d614b2-d216-49ba-a2fc-7bea2be2ae56
 
 :fire::fire::fire::fire::dash::dash::dash::fire::fire::fire::fire:
 ## NEW Fire and Smoke Dataset for Object Detection
