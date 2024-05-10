@@ -38,7 +38,7 @@ d) The dataset contains three classes: fire, smoke and other. The 'other' catego
 
 `YOLO models performnce comparison`
 
-Based on this dataset, I trained several YOLO models and conducted comparison metrics to evaluate their performance in terms of speed and accuracy. TTo train, evaluate, and infer using YOLO, I utilized another repository of mine, [`ALLYoloModels`](https://github.com/CostiCatargiu/AllYoloModels). UThis repository allows for easy switching between models depending on the task at hand. I have provided detailed instructions there on how to use it.
+Based on this dataset, I trained several YOLO models and conducted comparison metrics to evaluate their performance in terms of $\color{cyan}{\textsf{speed and accuracy.}}$ To train, evaluate, and infer using YOLO, I utilized another repository of mine, [`ALLYoloModels`](https://github.com/CostiCatargiu/AllYoloModels). This repository allows for easy switching between models depending on the task at hand. I have provided detailed instructions there on how to use it.
 
 
 
