@@ -1,13 +1,14 @@
-
-
+<details>
+  <summary>Demo Videos</summary>
 
 https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1eb16936-a51d-4670-9938-d00686cfc406
 
-
 https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ad516cfb-a181-413b-9a38-334d733e8d0d
 
+</details>
 
 
+![Yolov7NightVideoInference](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/5ada6deb-499a-45fa-85dc-131497da6ed1)
 
 
 
