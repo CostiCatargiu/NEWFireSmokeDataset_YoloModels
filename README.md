@@ -29,7 +29,8 @@ b) The dataset contains  $\color{orangered}{\textsf{aerial views from drones, cl
 
 c) The dataset includes a diverse selection of fire and smoke images, captured at $\color{yellow}{\textsf{different times throughout the day — from early morning to late at night}}$. Additionally, the images were taken under a $\color{yellow}{\textsf{variety of weather conditions, including sunny, cloudy, rainy, and foggy scenarios}}$, to showcase how fires and smoke behave and appear in different atmospheric settings. 
 
-$\color{aqua}{\textsf{Overall, the comprehensive nature of the FireAndSmoke dataset, with its wide range of scenes, perspectives, sizes, and environmental conditions, makes it highly suitable for training robust machine learning models that can accurately and reliably detect and analyze fires in any situation.}}$ 
+$\color{greenyellow}{\textsf{Overall, the comprehensive nature of the FireAndSmoke dataset, with its wide range of scenes, perspectives, sizes, and environmental conditions, }}$ 
+$\color{greenyellow}{\textsf{makes it highly suitable for training robust machine learning models that can accurately and reliably detect and analyze fires in any situation.}}$ 
 
 
 ## Dataset
