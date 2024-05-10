@@ -24,7 +24,7 @@ In this repository, I introduce a  $\color{red}{\textsf{NEW Fire and Smoke Datas
 The experimental results are stored on [Google Drive](https://drive.google.com/drive/folders/1yrOg-DV_fkiu2aWtRi6ftH_v4MGoTtEd?usp=drive_link) and are publicly accessible.
 
 ## Roboflow Dataset
-
+Here is a word in a `box`.
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1e02db0a-0ff6-4f60-ab93-9ba791481e00)
 
 Configuration setup used for trainig and testing the proposed Yolo models
