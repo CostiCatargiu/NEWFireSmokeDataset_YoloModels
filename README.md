@@ -40,9 +40,12 @@ The Dataset repartition for Training, Validation and Testing tasks is shown in f
 
 
 Dataset Composition:
+
     a) Frames extracted and annotated from approximately 1200 videos.
+    
     b) Images manually downloaded from the internet.
       From a) and b) i collected `22970` images.
+      
     c)`4312`images sourced from various public datasets.
 
 ## Experimental results
