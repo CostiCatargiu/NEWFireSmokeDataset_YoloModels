@@ -32,7 +32,7 @@ c) The dataset includes a diverse selection of fire and smoke images, captured a
 $\color{cyan}{\textsf{Overall, the comprehensive nature of the FireAndSmoke dataset, with its wide range of scenes, perspectives, sizes, and environmental conditions, }}$ 
 $\color{cyan}{\textsf{makes it highly suitable for training robust machine learning models that can accurately and reliably detect and analyze fires in any situation.}}$ 
 
-d) The dataset contains three classes: fire, smoke and other. The 'other' category assists models in differentiating fire and smoke instances from other elements that could be mistaken for fire or smoke. Instances marked as 'other' also include natural and artificial light sources such as sunsets/sunrises, street lamps, bonfire glows, reflections,vehicle headlights, emergency lights on firefighter vehicles and lights from electronic screens, all of which could be mistaken for fire.
+d) The dataset contains three classes: fire, smoke and other. The 'other' category assists models in differentiating fire and smoke instances from other elements that could be mistaken for fire or smoke. Instances marked as 'other' also include natural and artificial light sources such as $\color{red}{\textsf{sunsets/sunrises, street lamps, bonfire glows, reflections,vehicle headlights,}}$ $\color{red}{\textsf{emergency lights on firefighter vehicles and lights from electronic screens, all of which could be mistaken for fire.}}$ 
 
 
 ## Dataset
