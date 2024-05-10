@@ -67,7 +67,7 @@ python3 GetDatasetStatistics.py --path /path/to/dataset
   <summary>Output</summary>
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7c254050-130e-4c27-87bc-1cc491280620)
-</details>details>
+</details>
 
 ## Experimental results
 
