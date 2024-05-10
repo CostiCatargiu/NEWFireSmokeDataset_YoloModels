@@ -25,11 +25,11 @@ In this repository, I introduce a  $\color{red}{\textsf{NEW Fire and Smoke Datas
 
 a) The FireAndSmoke dataset encompasses a wide range of images from various real-world scenes, including  $\color{green}{\textsf{buildings on fire, cars on fire, vegetation fires, wildfires, trash fires, and interior fires.}}$ 
 
-b) The dataset contains $\color{green}{aerial views from drones, close-up and distant shots of fires}}$, 
+b) The dataset contains  $\color{green}{\textsf{aerial views from drones, close-up and distant shots of fires}}$, 
 
-as well as images captured from below when the $\color{green}{fire is at a higher altitude}}$. 
+as well as images captured from below when the $\color{green}{\textsf{fire is at a higher altitude}}$. 
 
-Additionally, the fires vary in $\color{green}{magnitude and size and may be obscured by vegetation or other objects}}$.
+Additionally, the fires vary in $\color{green}{\textsf{magnitude and size and may be obscured by vegetation or other objects}}$.
 
 c) The dataset includes a diverse selection of fire and smoke images, captured at different times throughout the day — from early morning to late at night. Additionally, the images were taken under a variety of weather conditions, including sunny, cloudy, rainy, and foggy scenarios, to showcase how fires and smoke behave and appear in different atmospheric settings. 
 
