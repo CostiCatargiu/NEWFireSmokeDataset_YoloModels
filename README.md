@@ -124,7 +124,9 @@ If a value is not provided for the optional parameters then the default values w
 
 The dataset path is seted in $\color{orange}{\textsf{parameters.yaml}}$ file like in image bellow. Here we set also the path to the testing videos used for inference task.
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3e5b1057-c36d-43da-ae59-4409b77389a1)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1f3cad7b-9e80-4dc3-953b-5818b8ea07c8)
+
+From the image above we can observe also that the training results are stored at path $\color{orange}{\textsf{ExperimentaResults/YoloV.../train/exp...}}$
 
 ## Experimental results
 
