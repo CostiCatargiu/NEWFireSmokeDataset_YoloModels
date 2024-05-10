@@ -100,9 +100,10 @@ python3 GetDatasetStatistics.py --path /path/to/dataset
 
 ## Training task
 
-To train the models I used the code from the repository [`ALLYoloModels`](https://github.com/CostiCatargiu/AllYoloModels). From there $\color{cyan}{\textsf{YoloModelsTrain.sh script}}$ shall be used,
+To train the models I used the code from the repository [`ALLYoloModels`](https://github.com/CostiCatargiu/AllYoloModels). From there $\color{orange}{\textsf{YoloModelsTrain.sh script}}$ shall be used,
 
 Syntax:
+
 ./YoloModelsTrain.sh  <<select_model>> --[weights] val --[datasetPath] val --[epochs] val --[batchSize] val
 
 Usage example:
@@ -117,13 +118,13 @@ Usage example:
 Parameters: 
  << >> = required parameter; [ ]=optional parameter
 
- ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/9b6888ef-ee0b-4684-8b0c-2329cbf67b16)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/94099433-bacf-48bd-8dc0-e6688992fbf4)
 
 If a value is not provided for the optional parameters then the default values will be used.
 
 The dataset path is seted in $\color{orange}{\textsf{parameters.yaml}}$ file like in image bellow. Here we set also the path to the testing videos used for inference task.
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/206c9b37-7d09-417b-bae9-2c9b215ff55c)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3e5b1057-c36d-43da-ae59-4409b77389a1)
 
 ## Experimental results
 
