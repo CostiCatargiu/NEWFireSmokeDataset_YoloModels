@@ -13,7 +13,7 @@ https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/
 
 
 :fire::fire::fire::fire::dash::dash::dash::fire::fire::fire::fire:
-## NEW Fire and Smoke Dataset for Object Detection
+# NEW Fire and Smoke Dataset for Object Detection
 :fire::fire::fire::fire::dash::dash::dash::fire::fire::fire::fire:
 
 In this repository, I introduce a  $\color{red}{\textsf{NEW Fire and Smoke Dataset}}$, designed for object detection tasks. I utilize this dataset to train several YOLO models, including   $\color{magenta}{\textsf{ YoloV5, YoloV6, YoloV7, YoloV8, YoloV9, and YoloNAS}}$.
@@ -37,6 +37,14 @@ The dataset is hosted on the Roboflow platform and consists of two projects. Thi
 The Dataset repartition for Training, Validation and Testing tasks is shown in figure bellow.
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1e02db0a-0ff6-4f60-ab93-9ba791481e00)
+
+I developed this dataset by gathering images from various sources, including video frames, public datasets on Kaggle and Roboflow, and manually downloading images from the internet. After collecting the images, I annotated them as needed and verified the accuracy of the existing annotations.
+
+Dataset Composition:
+
+    Frames extracted and annotated from approximately 1200 videos.
+    4312 images sourced from various public datasets.
+    Images manually downloaded from the internet..
 
 ## Experimental results
 
