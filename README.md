@@ -69,6 +69,9 @@ python3 GetDatasetStatistics.py --path /path/to/dataset
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7c254050-130e-4c27-87bc-1cc491280620)
 </details>
 
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/30dba36b-ffca-45e7-8ae5-619a376bcbe2) ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/608103f3-dc1c-41b6-b6f8-b715cfb1af9e)
+
+
 ## Experimental results
 
 The experimental results are stored on [Google Drive](https://drive.google.com/drive/folders/1yrOg-DV_fkiu2aWtRi6ftH_v4MGoTtEd?usp=drive_link) and are publicly accessible.
