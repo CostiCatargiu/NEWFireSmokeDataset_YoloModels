@@ -34,7 +34,7 @@ The dataset is hosted on the Roboflow platform and consists of two projects. Thi
 
 </details>
 
-The Dataset repartition for Training, Validation and Testing tasks is shown in figure bellow.
+The distribution of the dataset for Training, Validation, and Testing tasks is illustrated in the figure below.
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1e02db0a-0ff6-4f60-ab93-9ba791481e00)
 
@@ -48,6 +48,15 @@ Dataset Composition:
   
   From a) and b) i collected `22970` images.
 
+To simplify the process, I created a Python script that enables efficient downloading of the dataset for a specific YOLO model. The script is named $\color{red}{\textsf{DownloadFireDataset.py}}$. The script requires two arguments: the first is the model for which you want to download the dataset, and the second is the location where you wish to store the dataset.
+ 
+  ```bash
+    #model can be: yolov5, yolov6, yolov7, yolov8, yolov9
+      python3 DownloadFireDataset.py yolov5 --base-dir  /path/to/location/where/the/dataset/will/be/stored
+
+  ```
+
+ 
 ## Experimental results
 
 The experimental results are stored on [Google Drive](https://drive.google.com/drive/folders/1yrOg-DV_fkiu2aWtRi6ftH_v4MGoTtEd?usp=drive_link) and are publicly accessible.
