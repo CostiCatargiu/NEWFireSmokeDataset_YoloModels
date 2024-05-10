@@ -38,13 +38,12 @@ The Dataset repartition for Training, Validation and Testing tasks is shown in f
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1e02db0a-0ff6-4f60-ab93-9ba791481e00)
 
-I developed this dataset by gathering images from various sources, including video frames, public datasets on Kaggle and Roboflow, and manually downloading images from the internet. After collecting the images, I annotated them as needed and verified the accuracy of the existing annotations.
 
 Dataset Composition:
-
-    Frames extracted and annotated from approximately 1200 videos.
-    4312 images sourced from various public datasets.
-    Images manually downloaded from the internet..
+    a) Frames extracted and annotated from approximately 1200 videos.
+    b) Images manually downloaded from the internet.
+      From a) and b) i collected `22970` images.
+    c)`4312`images sourced from various public datasets.
 
 ## Experimental results
 
