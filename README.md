@@ -40,7 +40,7 @@ d) The dataset contains three classes: fire, smoke and other. The 'other' catego
 
 - Based on this dataset, I trained several YOLO models and conducted comparison metrics to evaluate their performance in terms of $\color{red}{\textsf{speed and accuracy.}}$ To train, evaluate, and infer using YOLO, I utilized another repository of mine, [`ALLYoloModels`](https://github.com/CostiCatargiu/AllYoloModels). This repository allows for easy switching between models depending on the task at hand. I have provided detailed instructions there on how to use it.
 
-- I created a detailed metric to evaluate the performance of each model by examining the number of detections and the average confidence level for each class. This method enables a thorough analysis of which model has the highest detection count and provides a clear measure of the overall accuracy for each class.
+- I made script that generate a detailed metric after each inference task to evaluate the performance of each model by examining the $\color{red}{\textsf{snumber of detections and the average confidence level for each class.}}$ This method enables a thorough analysis of which model has the highest detection count and provides a clear measure of the overall accuracy for each class.
 
   
 ## Dataset
