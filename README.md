@@ -21,7 +21,7 @@ In this repository, I introduce a  $\color{red}{\textsf{NEW Fire and Smoke Datas
 # Dataset
 The dataset is hosted on the Roboflow platform and consists of two projects. This dataset is public and can be downloaded and utilized for your own applications if desired. The links to the projects are: ['FireSmokeDataset_part1'](https://universe.roboflow.com/catargiuconstantin2/firesmokenewdataset/dataset/1) and ['FireSmokeDataset_part2'](https://universe.roboflow.com/catargiuconstantin/firesmokedataset/dataset/2)
 
-Here is a link in a `box`: [`OpenAI`](https://www.openai.com)
+Here is a link in a  [`dad sa`](https://www.openai.com)
 
 
 <details>
