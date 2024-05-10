@@ -27,17 +27,14 @@ The dataset is hosted on the Roboflow platform and consists of two projects. Thi
 
 
 `FireSmokeDataset_part1`
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/adb582b8-6d95-4fc3-9f66-855ca31b4742)
-
-`FireSmokeDataset_part2`
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/82d91027-216f-4f9c-ada6-41c4431cc51b)
 
+`FireSmokeDataset_part2`
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/adb582b8-6d95-4fc3-9f66-855ca31b4742)
 
 </details>
 
-
-
-
+The Dataset repartition for Training, Validation and Testing tasks is shown in figure bellow.
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1e02db0a-0ff6-4f60-ab93-9ba791481e00)
 
