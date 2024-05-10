@@ -62,6 +62,13 @@ Another useful script you can use to examine the distribution of images within t
    ```bash
 python3 GetDatasetStatistics.py --path /path/to/dataset
   ```
+
+<details>
+  <summary>Output</summary>
+  
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7c254050-130e-4c27-87bc-1cc491280620)
+</details>details>
+
 ## Experimental results
 
 The experimental results are stored on [Google Drive](https://drive.google.com/drive/folders/1yrOg-DV_fkiu2aWtRi6ftH_v4MGoTtEd?usp=drive_link) and are publicly accessible.
