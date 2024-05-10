@@ -39,7 +39,6 @@ The Dataset repartition for Training, Validation and Testing tasks is shown in f
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1e02db0a-0ff6-4f60-ab93-9ba791481e00)
 
 Dataset Composition:
-
     a) Frames extracted and annotated from approximately 1200 videos.
     b) Images manually downloaded from the internet.
       From a) and b) i collected `22970` images.
