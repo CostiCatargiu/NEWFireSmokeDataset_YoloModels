@@ -51,12 +51,17 @@ Dataset Composition:
 To simplify the process, I created a Python script that enables efficient downloading of the dataset for a specific YOLO model. The script is named $\color{red}{\textsf{DownloadFireDataset.py}}$. The script requires two arguments: the first is the model for which you want to download the dataset, and the second is the location where you wish to store the dataset.
  
   ```bash
-    #model can be: yolov5, yolov6, yolov7, yolov8, yolov9
-      python3 DownloadFireDataset.py yolov5 --base-dir  /path/to/location/where/the/dataset/will/be/stored
+  #model can be: yolov5, yolov6, yolov7, yolov8, yolov9
+  python3 DownloadFireDataset.py yolov5 --base-dir  /path/to/location/where/the/dataset/will/be/stored
 
   ```
+{\textsf{GetDatasetStatistics.py}}$. It will output informations related to the number of images and instances for each class that is included in Training, Testing and Validation dataset. 
 
- 
+Another useful script you can use to examine the distribution of images within the dataset is  $\color{orange}{\textsf{GetDatasetStatistics.py}}$. This script outputs information regarding the number of images and instances for each class included in the Training, Testing, and Validation datasets.
+
+   ```bash
+python3 GetDatasetStatistics.py --path /path/to/dataset
+  ```
 ## Experimental results
 
 The experimental results are stored on [Google Drive](https://drive.google.com/drive/folders/1yrOg-DV_fkiu2aWtRi6ftH_v4MGoTtEd?usp=drive_link) and are publicly accessible.
