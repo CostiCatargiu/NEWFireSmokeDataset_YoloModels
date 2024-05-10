@@ -98,12 +98,37 @@ python3 GetDatasetStatistics.py --path /path/to/dataset
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7c254050-130e-4c27-87bc-1cc491280620)
 </details>
 
+## Training task
 
+To train the models I used the code from the repository [`ALLYoloModels`](https://github.com/CostiCatargiu/AllYoloModels). From there $\color{cyan}{\textsf{YoloModelsTrain.sh script}}$ shall be used,
 
+Syntax:
+./YoloModelsTrain.sh  <<select_model>> --[weights] val --[datasetPath] val --[epochs] val --[batchSize] val
+
+Usage example:
+  ```bash
+./YoloModelsTrain.sh yolov5m  --epochs 100 --batchSize 100
+./YoloModelsTrain.sh yolov6m  --epochs 100 --batchSize 100
+./YoloModelsTrain.sh yolov7   --epochs 100 --batchSize 100
+./YoloModelsTrain.sh gelan-c  --epochs 100 --batchSize 100
+./YoloModelsTrain.sh yolov9-c --epochs 100 --batchSize 100
+```
+
+Parameters: 
+ << >> = required parameter; [ ]=optional parameter
+
+ ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/9b6888ef-ee0b-4684-8b0c-2329cbf67b16)
+
+If a value is not provided for the optional parameters then the default values will be used.
+
+The dataset path is seted in $\color{orange}{\textsf{parameters.yaml}}$ file like in image bellow. Here we set also the path to the testing videos used for inference task.
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/206c9b37-7d09-417b-bae9-2c9b215ff55c)
 
 ## Experimental results
 
 The experimental results are stored on [`Google Drive`](https://drive.google.com/drive/folders/1yrOg-DV_fkiu2aWtRi6ftH_v4MGoTtEd?usp=drive_link) and are publicly accessible.
+
  [`yolov5`](https://drive.google.com/drive/folders/1jltoslzNQDlfKtWE5hHKj3R1x6tCDNsS?usp=drive_link)[`yolov6`](https://drive.google.com/drive/folders/1ks4Pfyn_z3I1cvNHvnJAq22F9X5dNxL5?usp=drive_link)[`yolov7`](https://drive.google.com/drive/folders/1nT1yJqUUFXabUhIQt55M9sS3ruuDs0ez?usp=drive_link)[`yolov8`](https://drive.google.com/drive/folders/1UJlGiR7NXNlk90iQqo96yg9rAd0PsICh?usp=drive_link)[`yolov9`](https://drive.google.com/drive/folders/1sj3SSUyJdlphLDI0y9E3IcpCQN-AKiVz?usp=drive_link)[`yoloNAS`](https://drive.google.com/drive/folders/1QWV3czwYHLIuxVuwPFIeiJ1TSyriS_LF?usp=drive_link)
 
 `Configuration setup used for trainig and testing the proposed Yolo models.`
@@ -116,3 +141,5 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 `Results obtained after evaluation on Test Dataaset.`
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/0038819e-31d0-4f22-a014-c531fe6a8dc3)
+
+
