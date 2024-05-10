@@ -10,6 +10,7 @@ https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/
 
 ![Yolov7NightVideoInference](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/5ada6deb-499a-45fa-85dc-131497da6ed1)
 
+![Yolov5DayVideoInference](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b3382b28-b251-498b-af8b-2b39b46878dc)
 
 
 
