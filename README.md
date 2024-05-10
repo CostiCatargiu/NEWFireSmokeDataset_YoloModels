@@ -22,6 +22,7 @@ In this repository, I introduce a  $\color{red}{\textsf{NEW Fire and Smoke Datas
 
 
 ⭐⭐ $\color{orange}{\textsf{Key Features of this repository}}$ ⭐⭐
+`Dataset Improvements`
 
 a) The FireAndSmoke dataset encompasses a wide range of images from various real-world scenes, including  $\color{green}{\textsf{buildings on fire, cars on fire, vegetation fires, wildfires, trash fires, and interior fires.}}$ 
 
@@ -39,6 +40,11 @@ d) The dataset contains three classes: fire, smoke and other. The 'other' catego
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/30dba36b-ffca-45e7-8ae5-619a376bcbe2) ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/608103f3-dc1c-41b6-b6f8-b715cfb1af9e)
 
 The dataset is hosted on the Roboflow platform and consists of two projects. This dataset is public and can be downloaded and utilized for your own applications if desired. The links to the projects are: [`FireSmokeDataset_part1`](https://universe.roboflow.com/catargiuconstantin/firesmokedataset/dataset/2) and [`FireSmokeDataset_part2`](https://universe.roboflow.com/catargiuconstantin2/firesmokenewdataset/dataset/1).
+
+`YOLO models performnce comparison`
+
+Based on this dataset, I trained several YOLO models and conducted comparison metrics to evaluate their performance in terms of speed and accuracy. TTo train, evaluate, and infer using YOLO, I utilized another repository of mine, [`ALLYoloModels`](https://github.com/CostiCatargiu/AllYoloModels). UThis repository allows for easy switching between models depending on the task at hand. I have provided detailed instructions there on how to use it.
+
 
 
 <details>
