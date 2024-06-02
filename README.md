@@ -85,8 +85,6 @@ a) 11234 day images.
 
  <summary>- 1789 only other images</summary>
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/a2115951-15da-4a27-857d-be7b0ca601eb)
-
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7f98140e-f733-4b68-90c7-c51fdbd05eab)
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/4313db0b-a8e2-457c-8fef-bd861864a3a9)
@@ -159,6 +157,34 @@ b) 10000 night images.
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/aff31c06-62af-489a-bc74-81f98d49e0cb)
 
+</details>
+
+<details>
+  <summary>- 528 just fire night scenes </summary>
+  
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b8ed0ae6-b3d1-447f-8626-a795bc628925)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/0df77059-5e30-44f3-a8e1-e1128c7a0e89)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3ded8d21-2b21-4f33-927b-d53608a49f97)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b4745424-7adf-4ee3-b090-113ce242856a)
+
+</details>
+
+<details>
+  <summary>- 1421 only other scenes </summary>
+  
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/a2115951-15da-4a27-857d-be7b0ca601eb)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ed30767c-91b2-4ea7-8d7d-d60c56772e37)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/d4e84e5f-8888-44d4-8f39-5299867f3e8b)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/be9b79f7-285c-4603-8dd0-9a5de36de73a)
+
+
+</details>
 
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/30dba36b-ffca-45e7-8ae5-619a376bcbe2) ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/608103f3-dc1c-41b6-b6f8-b715cfb1af9e)
