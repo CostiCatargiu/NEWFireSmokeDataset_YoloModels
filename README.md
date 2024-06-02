@@ -269,6 +269,4 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
     
 ![Frame 9728_screenshot_02 06 2024](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ff812f14-752b-4c14-97ef-3a8d9f5b9834)
 
-
-
   </details
