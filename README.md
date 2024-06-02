@@ -102,9 +102,19 @@ a) 11234 day images.
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3e7a5ac5-afc2-4d9a-9eab-2847257d02fa)
 
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/5ebabf77-94a1-4fb9-90b5-cf6739058c91)
 
-  - 213 images captured from drons which contains (fire and smoke scenes or just smoke scenes)
-     
+<details>
+  <summary> 213 images captured from drons which contains (fire and smoke scenes or just smoke scenes)</summary>
+  
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/8dbdb022-fd90-404c-8142-5ff0c975353c)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/78e1aa8b-d58f-435c-9b67-16fdb1847ccd)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/f4853339-5c1e-466c-a8d1-aceef9807806)
+
+</details>
+
 b) 10000 night images.
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/30dba36b-ffca-45e7-8ae5-619a376bcbe2) ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/608103f3-dc1c-41b6-b6f8-b715cfb1af9e)
