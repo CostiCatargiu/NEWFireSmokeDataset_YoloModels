@@ -120,6 +120,7 @@ b) 7158 night images.
 
 <details>
   <summary>- 1852 fire, smoke, other night scenes </summary>
+  
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/622b4bc1-e902-4e79-bbdc-84eae0dd6293)
 
 
