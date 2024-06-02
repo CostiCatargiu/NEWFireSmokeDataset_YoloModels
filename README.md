@@ -242,14 +242,14 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
   
 ![yolov6_missmatch_fire_other](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/487af181-f7c5-4c93-9e98-1c4ed8fa65bd)
 
-  </details
+  </details>
 
   <details>
   <summary>YoloV5,V6 and V7 wrong prediction (predict other to be fire) </summary>
     
 ![yolov567_missmatch_fire_other](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ea2381a8-8f3a-4fcc-9a76-dddbc216cadc)
 
-  </details
+  </details>
     
 `Results obtain after inference on VideoNightMixt`
 
@@ -262,11 +262,11 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
     
 ![Yolov7ANDgelan_missmatch_fire_smoke](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/69fd3629-a9a2-4f9a-a8a1-f7301da4c886)
 
-  </details
+  </details>
     
 <details>
   <summary>YoloV8 and V9 miss detection</summary>
     
 ![Frame 9728_screenshot_02 06 2024](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ff812f14-752b-4c14-97ef-3a8d9f5b9834)
 
-  </details
+  </details>
