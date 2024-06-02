@@ -60,9 +60,9 @@ $\color{red}{\textsf{Dataset Composition:}}$
   
 $\color{red}{\textsf{Repartition of scenes in dataset (22970 in total)}}$
 
-a) 11234 day images.
+a) 15812 day images.
 <details>
-  <summary>- 2421 only smoke scenes</summary>
+  <summary>- 2121 only smoke scenes</summary>
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7397724e-70d5-4455-a3b2-765a8b373d09)
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3027c815-8fd0-4395-8520-a6c7cc7a2557)
@@ -71,7 +71,7 @@ a) 11234 day images.
 </details>
 
 <details>
-  <summary>- 2675 only fire scenes</summary>
+  <summary>- 2475 only fire scenes</summary>
   
   ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/175e314b-43dd-4fc0-b78f-73388f6251c1)
   
@@ -103,7 +103,7 @@ a) 11234 day images.
 </details>
 
 <details>
-  <summary>- 5112 fire and smoke scenes</summary>
+  <summary>- 4612 fire and smoke scenes</summary>
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/507ff035-7aa0-4016-9e42-e3be0f8c63ed)
 
@@ -142,10 +142,10 @@ a) 11234 day images.
 
 </details>
 
-b) 10000 night images.
+b) 7158 night images.
 
 <details>
-  <summary>- 2310 fire and smoke night scenes </summary>
+  <summary>- 2657 fire and smoke scenes </summary>
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1dc1818b-5bdc-4f99-bc4a-70f5427c1404)
 
@@ -158,7 +158,7 @@ b) 10000 night images.
 </details>
 
 <details>
-  <summary>- 1352 fire, smoke, other night scenes </summary>
+  <summary>- 1852 fire, smoke, other night scenes </summary>
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2775cda5-eb58-485e-9677-0ce793d9a575)
 
@@ -171,7 +171,7 @@ b) 10000 night images.
 </details>
 
 <details>
-  <summary>- 528 only fire scenes </summary>
+  <summary>- 1228 only fire scenes </summary>
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b8ed0ae6-b3d1-447f-8626-a795bc628925)
 
