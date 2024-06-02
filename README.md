@@ -64,9 +64,8 @@ a) 15812 day images.
 <details>
   <summary>- 2121 only smoke scenes</summary>
   
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7397724e-70d5-4455-a3b2-765a8b373d09)
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3027c815-8fd0-4395-8520-a6c7cc7a2557)
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/9a30f0af-42a6-4813-9516-5c4fd1b941f5)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/83bf5bb8-f660-4ba5-93d7-890d8493ce91)
+
 
 </details>
 
