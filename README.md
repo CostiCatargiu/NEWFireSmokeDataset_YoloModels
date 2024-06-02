@@ -83,11 +83,22 @@ a) 11234 day images.
 
 <details>
 
- <summary>- 1789 only other images</summary>
+ <summary>- 345 only other images</summary>
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7f98140e-f733-4b68-90c7-c51fdbd05eab)
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/4313db0b-a8e2-457c-8fef-bd861864a3a9)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/9edff729-8c61-4f17-bcec-752eead0843c)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/24e9952c-62ea-4bbd-bb6e-4fad28ca7d32)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/a4f97d6c-5fcd-4e4d-9670-68403eb3c29b)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/68891423-be81-4a54-a123-5b8d5452a62e)
+
+![Uploading image.png…]()
+
 
 </details>
 
