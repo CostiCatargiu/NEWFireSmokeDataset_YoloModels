@@ -62,7 +62,7 @@ $\color{red}{\textsf{Repartition of scenes in dataset (22970 in total)}}$
 
 a) 11234 day images.
 <details>
-  <summary>- 3122 only smoke images</summary>
+  <summary>- 2421 only smoke scenes</summary>
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7397724e-70d5-4455-a3b2-765a8b373d09)
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3027c815-8fd0-4395-8520-a6c7cc7a2557)
@@ -71,7 +71,7 @@ a) 11234 day images.
 </details>
 
 <details>
-  <summary>- 2675 only fire images</summary>
+  <summary>- 2675 only fire scenes</summary>
   
   ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/175e314b-43dd-4fc0-b78f-73388f6251c1)
   
@@ -83,7 +83,7 @@ a) 11234 day images.
 
 <details>
 
- <summary>- 345 only other images</summary>
+ <summary>- 345 only other scenes</summary>
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7f98140e-f733-4b68-90c7-c51fdbd05eab)
 
@@ -103,7 +103,7 @@ a) 11234 day images.
 </details>
 
 <details>
-  <summary>- 5812 fire and smoke images</summary>
+  <summary>- 5112 fire and smoke scenes</summary>
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/507ff035-7aa0-4016-9e42-e3be0f8c63ed)
 
