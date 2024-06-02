@@ -225,7 +225,21 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/13bf1153-c8bb-4ef7-b164-cc0d64b2c22f)
 
-`Results obtained after evaluation on Test Dataaset.`
+`Results obtained after evaluation on Test Dataset.`
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/30ef6620-7ad6-4d14-aff0-3de45ac4d352)
 
+
+## Evaluation result
+
+`Results obtain after inference on VideoDayMixt`
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/44f6fae9-e5b0-4ad5-82c8-fa56b903d22a)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b068f3e8-4987-4a3a-af5c-2b81480b2c8b)
+
+`Results obtain after inference on VideoNightMixt`
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2a3c7472-a5bc-4dc4-be0b-c14238947982)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ea5491c7-85be-40fc-b8de-5d45da1f387c)
 
