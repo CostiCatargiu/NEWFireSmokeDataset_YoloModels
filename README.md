@@ -115,7 +115,7 @@ a) 15812 day images.
 </details>
 
 <details>
-  <summary> 3138 images captured from drones which contains (fire and smoke scenes or just smoke scenes)</summary>
+  <summary>- 3138 images captured from drones which contains (fire and smoke scenes or just smoke scenes)</summary>
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/8dbdb022-fd90-404c-8142-5ff0c975353c)
 
