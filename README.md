@@ -59,10 +59,14 @@ $\color{red}{\textsf{Dataset Composition:}}$
   From a) and b) i collected `22970` images.
   
 $\color{red}{\textsf{Repartition of scenes in dataset (22970 in total)}}$
+
 a) 11234 day images.
-  - 2345 only smoke images.
+<details>
+  <summary>- 1234 only smoke images</summary>
+  
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7397724e-70d5-4455-a3b2-765a8b373d09)
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3027c815-8fd0-4395-8520-a6c7cc7a2557)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/9a30f0af-42a6-4813-9516-5c4fd1b941f5)
 
 
   - 1232 only fire images.
