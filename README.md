@@ -97,7 +97,7 @@ a) 11234 day images.
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/68891423-be81-4a54-a123-5b8d5452a62e)
 
-![Uploading image.png…]()
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/a0912939-6c08-4fcc-8b3c-68e750d77cfb)
 
 
 </details>
