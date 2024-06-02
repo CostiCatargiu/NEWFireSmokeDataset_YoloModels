@@ -120,6 +120,18 @@ a) 11234 day images.
 
 b) 10000 night images.
 
+<details>
+  <summary>- 493 fire and smoke images</summary>
+  
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1dc1818b-5bdc-4f99-bc4a-70f5427c1404)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2efe4a63-52a8-4234-b147-4d2d702a9434)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/60c593e0-e3d4-4edf-9c41-f60c2e4a93f8)
+
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b1d8e270-42b6-4fd6-a3a9-a528711180ca)
+
+</details>
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/30dba36b-ffca-45e7-8ae5-619a376bcbe2) ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/608103f3-dc1c-41b6-b6f8-b715cfb1af9e)
 
