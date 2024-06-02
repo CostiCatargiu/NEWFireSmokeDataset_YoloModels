@@ -171,7 +171,7 @@ b) 10000 night images.
 </details>
 
 <details>
-  <summary>- 528 just fire night scenes </summary>
+  <summary>- 528 only fire scenes </summary>
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b8ed0ae6-b3d1-447f-8626-a795bc628925)
 
