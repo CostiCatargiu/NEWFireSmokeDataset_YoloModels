@@ -229,7 +229,7 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/30ef6620-7ad6-4d14-aff0-3de45ac4d352)
 
 
-## Evaluation result
+## Models Comparison Performance metrics
 
 `Results obtain after inference on VideoDayMixt`
 
@@ -237,9 +237,38 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b068f3e8-4987-4a3a-af5c-2b81480b2c8b)
 
-`Results obtain after inference on VideoNightMixt`
+<details>
+  <summary>YoloV6 wrong prediction (predict other to be fire) </summary>
+  
+![yolov6_missmatch_fire_other](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/487af181-f7c5-4c93-9e98-1c4ed8fa65bd)
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2a3c7472-a5bc-4dc4-be0b-c14238947982)
+  </details
+
+  <details>
+  <summary>YoloV5,V6 and V7 wrong prediction (predict other to be fire) </summary>
+    
+![yolov567_missmatch_fire_other](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ea2381a8-8f3a-4fcc-9a76-dddbc216cadc)
+
+  </details
+    
+`Results obtain after inference on VideoNightMixt`
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ea5491c7-85be-40fc-b8de-5d45da1f387c)
 
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2a3c7472-a5bc-4dc4-be0b-c14238947982)
+
+  <details>
+  <summary>YoloV7 and Gelan-c wrong prediction (predict smoke to be fire) </summary>
+    
+![Yolov7ANDgelan_missmatch_fire_smoke](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/69fd3629-a9a2-4f9a-a8a1-f7301da4c886)
+
+  </details
+    
+<details>
+  <summary>YoloV8 and V9 miss detection</summary>
+    
+![Frame 9728_screenshot_02 06 2024](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ff812f14-752b-4c14-97ef-3a8d9f5b9834)
+
+
+
+  </details
