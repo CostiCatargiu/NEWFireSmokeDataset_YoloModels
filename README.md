@@ -72,43 +72,23 @@ a) 15812 day images.
 <details>
   <summary>- 2475 only fire scenes</summary>
   
-  ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/175e314b-43dd-4fc0-b78f-73388f6251c1)
-  
-  ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/e27c67db-6d38-4e53-bd40-c25d29d5f10a)
-  
- ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/096b2702-990f-4b52-a090-e51efa15eed1)
+  ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/d9d71090-fd7a-446a-a6e2-1f67efb70030)
 
 </details>
 
 <details>
 
- <summary>- 345 only other scenes</summary>
+ <summary>- 645 only other scenes</summary>
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7f98140e-f733-4b68-90c7-c51fdbd05eab)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/4313db0b-a8e2-457c-8fef-bd861864a3a9)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/9edff729-8c61-4f17-bcec-752eead0843c)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/24e9952c-62ea-4bbd-bb6e-4fad28ca7d32)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/a4f97d6c-5fcd-4e4d-9670-68403eb3c29b)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/68891423-be81-4a54-a123-5b8d5452a62e)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/a0912939-6c08-4fcc-8b3c-68e750d77cfb)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/08544060-3068-4ba2-b2cd-045f2551d1d0)
 
 
 </details>
 
 <details>
-  <summary>- 4612 fire and smoke scenes</summary>
-  
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/507ff035-7aa0-4016-9e42-e3be0f8c63ed)
+  <summary>- 4312 fire and smoke scenes</summary>
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/7967e974-12e7-42ed-855c-c71e160f84a8)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3e7a5ac5-afc2-4d9a-9eab-2847257d02fa)
+  ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/66bb7935-834c-46ab-9fc4-ee8a7dd4401d)
 
 
 </details>
@@ -116,13 +96,8 @@ a) 15812 day images.
 <details>
   <summary>- 3138 images captured from drones which contains (fire and smoke scenes or just smoke scenes)</summary>
   
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/8dbdb022-fd90-404c-8142-5ff0c975353c)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/fd19f3e8-29f3-4c55-81ce-fdfb35685a37)
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/78e1aa8b-d58f-435c-9b67-16fdb1847ccd)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/f4853339-5c1e-466c-a8d1-aceef9807806)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/5ebabf77-94a1-4fb9-90b5-cf6739058c91)
 
 </details>
 
@@ -130,14 +105,7 @@ a) 15812 day images.
 <details>
   <summary>- 3121 vegetation fire </summary>
 
-  ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/156cb3ae-3276-4274-879d-ef89d981aafe)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/af0482a1-abf4-4310-a042-a7d5e7b58e75)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/c81f7bd6-d58d-4659-82c6-2dbf77067b11)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/f69996f3-71e1-4297-9d6a-84882ccce0e0)
-
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/60c1e864-aa1d-4181-b9ee-8b3ac7d602de)
 
 </details>
 
@@ -146,52 +114,30 @@ b) 7158 night images.
 <details>
   <summary>- 2657 fire and smoke scenes </summary>
   
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1dc1818b-5bdc-4f99-bc4a-70f5427c1404)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2efe4a63-52a8-4234-b147-4d2d702a9434)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/60c593e0-e3d4-4edf-9c41-f60c2e4a93f8)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b1d8e270-42b6-4fd6-a3a9-a528711180ca)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/838b715c-0c7f-4866-a78c-0f01efd3d17b)
 
 </details>
 
 <details>
   <summary>- 1852 fire, smoke, other night scenes </summary>
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/622b4bc1-e902-4e79-bbdc-84eae0dd6293)
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2775cda5-eb58-485e-9677-0ce793d9a575)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/c7a20c55-0189-4e54-963f-e32cccd7db9b)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b5c2e051-29e4-4c41-8ea8-6d6dd3f10f35)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/aff31c06-62af-489a-bc74-81f98d49e0cb)
 
 </details>
 
 <details>
   <summary>- 1228 only fire scenes </summary>
   
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b8ed0ae6-b3d1-447f-8626-a795bc628925)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2b96c00b-c1f1-4178-ad96-6e9b4f0f735b)
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/0df77059-5e30-44f3-a8e1-e1128c7a0e89)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3ded8d21-2b21-4f33-927b-d53608a49f97)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b4745424-7adf-4ee3-b090-113ce242856a)
 
 </details>
 
 <details>
   <summary>- 1421 only other scenes </summary>
   
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/a2115951-15da-4a27-857d-be7b0ca601eb)
+![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/5a1ed23c-c890-45df-b5d4-1596382ab5f9)
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ed30767c-91b2-4ea7-8d7d-d60c56772e37)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/d4e84e5f-8888-44d4-8f39-5299867f3e8b)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/be9b79f7-285c-4603-8dd0-9a5de36de73a)
 
 
 </details>
