@@ -130,7 +130,6 @@ b) 7158 night images.
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2b96c00b-c1f1-4178-ad96-6e9b4f0f735b)
 
-
 </details>
 
 <details>
@@ -138,12 +137,8 @@ b) 7158 night images.
   
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/5a1ed23c-c890-45df-b5d4-1596382ab5f9)
 
-
-
 </details>
 
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/30dba36b-ffca-45e7-8ae5-619a376bcbe2) ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/608103f3-dc1c-41b6-b6f8-b715cfb1af9e)
 
 The dataset is hosted on the Roboflow platform and consists of two projects. This dataset is public and can be downloaded and utilized for your own applications if desired. The links to the projects are: [`FireSmokeDataset_part1`](https://universe.roboflow.com/catargiuconstantin/firesmokedataset/dataset/2) and [`FireSmokeDataset_part2`](https://universe.roboflow.com/catargiuconstantin2/firesmokenewdataset/dataset/1).
 
