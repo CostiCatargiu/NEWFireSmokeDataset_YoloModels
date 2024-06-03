@@ -284,3 +284,13 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 
   </details>
+
+<details>
+  <summary>Smoke detected just by YoloV5,V6 and V8 (difficult scene) </summary>
+    
+
+![Frame 6384_screenshot_03 06 2024](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ab92d8b3-f937-46c7-984f-4dd8cd229dfe)
+
+
+  </details>
+  
