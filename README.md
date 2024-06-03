@@ -231,6 +231,11 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 ## Models Comparison Performance metrics
 
+![442449243_1221233025925138_1306563896997288088_n](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/e21944f7-6867-4f65-b425-37c112e8bd08)
+
+![436242488_2224528711227104_5248217981150430829_n](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/0793ca53-73e6-403c-823f-d2830a89ee08)
+
+
 `Results obtain after inference on VideoDayMixt`
 
 ![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/44f6fae9-e5b0-4ad5-82c8-fa56b903d22a)
