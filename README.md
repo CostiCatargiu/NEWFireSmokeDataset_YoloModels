@@ -231,19 +231,26 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 ## Models Comparison Performance metrics
 
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/7fe722d6-cb32-47e1-a6f4-19de9223158c)
-
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/6a57996c-5895-4dfb-9333-9b325e89482c)
-
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/37554923-f834-4451-951f-211e7471fbd2)
-
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/fae8ff42-f743-4afc-8115-d38337bfbd60)
-
 `Results obtain after inference on VideoDayMixt`
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/44f6fae9-e5b0-4ad5-82c8-fa56b903d22a)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/14956439-fdab-414c-8058-e6bb973c1ded)
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/b068f3e8-4987-4a3a-af5c-2b81480b2c8b)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/8dae8e65-1f19-4650-ac09-8c0c4086475c)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/c86e69c8-c32e-4ced-9f05-9c53f200b810)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/6b0b0d2b-6600-4380-bb34-08ae9ed97a4a)
+
+`Results obtain after inference on VideoNightMixt`
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/0c455003-66dc-415d-ba73-8229b7998cc8)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/72c8a9d3-da6f-4936-8e1c-bdc3472d2f8c)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/93a96f22-c8dd-4522-985e-5d4422ce0f73)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/f4b87a91-494a-4feb-bff3-7a1e42fddd05)
+
 
 <details>
   <summary>YoloV6 wrong prediction (predict other to be fire) </summary>
