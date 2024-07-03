@@ -157,7 +157,7 @@ The dataset is hosted on the Roboflow platform and consists of two projects. Thi
 
 The distribution of the dataset for Training, Validation, and Testing tasks is illustrated in the figure below.
 
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/7dc166b5-bf2e-4bb5-8c4d-0c3b3ce5c0d3)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/e4bf539d-6cfc-4f45-bdbe-c9bc85480477)
 
 
 To simplify the process, I created a Python script that enables efficient downloading of the dataset for a specific YOLO model. The script is named $\color{red}{\textsf{DownloadFireDataset.py}}$. The script requires two arguments: the first is the model for which you want to download the dataset, and the second is the location where you wish to store the dataset.
@@ -230,25 +230,44 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 
 ## Models Comparison Performance metrics
+  <details>
+  <summary> Results obtained after inference on VideoDayMixt </summary>
 
-`Results obtained after inference on VideoDayMixt`
+`Total number of detections for each class and average confidence score`
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/14956439-fdab-414c-8058-e6bb973c1ded)
 
+`Total number of wrong detections (missmatch between classes)`
+
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/8dae8e65-1f19-4650-ac09-8c0c4086475c)
+
+`Additional informations: Average FPS, Inference time, confindence threshold.`
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/3d2ae67f-c6cd-466b-af0e-4c7b42a68463)
 
-`Results obtained after inference on VideoNightMixt`
+`Summary Comparison Table.`
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/0510646c-32d9-4a3d-8ccf-8c99c1e2eb71)
+
+  </details>
+    <details>
+  <summary> Results obtained after inference on VideoNightMixt </summary>
+
+`Total number of detections for each class and average confidence score`
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/0c455003-66dc-415d-ba73-8229b7998cc8)
 
+`Total number of wrong detections (missmatch between classes)`
+
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/72c8a9d3-da6f-4936-8e1c-bdc3472d2f8c)
+
+`Additional informations: Average FPS, Inference time, confindence threshold.`
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/93a96f22-c8dd-4522-985e-5d4422ce0f73)
 
+`Summary Comparison Table.`
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/f4b87a91-494a-4feb-bff3-7a1e42fddd05)
 
+  </details>
 
 ## Examples of predictions
 
@@ -332,5 +351,13 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/69e6a10b-8c0a-4255-8db5-9283537ade06)
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/2c7c6321-c9e3-4daa-846e-12cc35e01f47)
+
+  </details>
+          <details>
+  <summary>YOLOv5m, YOLOv7 and Gelan-c best score for fire and smoke </summary>
+    
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/1308eaab-b254-4313-93b2-6204782c3261)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/98b8cb90-6239-4049-bc52-2db80a9a314e)
 
   </details>
