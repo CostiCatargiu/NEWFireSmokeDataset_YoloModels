@@ -1,4 +1,4 @@
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/93df6366-47d0-4df5-9f86-bc0987f1c436)![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/8e23a2b5-e97f-44ba-8083-e5a0f316f7fe)<details>
+<details>
   <summary>Demo Videos</summary>
 
 https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1eb16936-a51d-4670-9938-d00686cfc406
