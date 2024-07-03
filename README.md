@@ -223,10 +223,10 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 `Models hyperparameters used for training process.`
 
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/d3579f58-27ab-443e-941d-9d934dc56b55)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/82171ff6-ac9a-4500-ad5e-a01f246216f4)
 
 `Results obtained after evaluation on Test Dataset.`
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/a96369b1-29d3-4155-9089-726d0bd4f650)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/d8ce31ba-227d-49b0-abe9-1f22d5c5a734)
 
 
 ## Models Comparison Performance metrics
@@ -236,8 +236,6 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/14956439-fdab-414c-8058-e6bb973c1ded)
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/8dae8e65-1f19-4650-ac09-8c0c4086475c)
-
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/c86e69c8-c32e-4ced-9f05-9c53f200b810)
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/3d2ae67f-c6cd-466b-af0e-4c7b42a68463)
 
