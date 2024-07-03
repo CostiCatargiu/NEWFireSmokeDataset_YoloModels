@@ -1,4 +1,4 @@
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/8e23a2b5-e97f-44ba-8083-e5a0f316f7fe)<details>
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/93df6366-47d0-4df5-9f86-bc0987f1c436)![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/8e23a2b5-e97f-44ba-8083-e5a0f316f7fe)<details>
   <summary>Demo Videos</summary>
 
 https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1eb16936-a51d-4670-9938-d00686cfc406
@@ -295,10 +295,42 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
   </details>
     <details>
-  <summary> YOLOv5m and YOLOv10b best score for smoke e </summary>
+  <summary> YOLOv5m and YOLOv10b best score for smoke; YOLOv6m and YOLOv7 wrong smoke detection </summary>
     
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/066d6d74-30cf-48da-b4e5-d9f4269c7603)
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/751b3fc1-3fd5-4f6c-9478-1e1c6a7a11c8)
+
+  </details>
+      <details>
+  <summary> YOLOv5m, YOLOv7 and Gelan-c best score for fire; YOLOv8m miss fire detectionn </summary>
+    
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/90a67dbf-ad71-42bc-a538-0126a9602d11)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/05ca0253-6aee-4763-b7ef-fbedf2dfcda2)
+
+  </details>
+        <details>
+  <summary>YOLOv5m and YOLOv10m best score for fire and smoke  </summary>
+    
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/aa5b63e4-58bf-49e8-a5ad-54bff729473c)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/356b39a4-8d3c-423a-ba4b-1cde6bc5058e)
+
+  </details>
+          <details>
+  <summary>YOLOv5m and YOLOv10b best score for fire and smoke; YOLOv8 and Gelan-c wrong detection for fire  </summary>
+    
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/867c9e05-1c8f-43e1-8f94-98ac42bd7cd2)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/7b381efd-9cfc-4ebe-8895-addb1fe42c9e)
+
+  </details>
+          <details>
+  <summary>YOLOv5m and Gelan-c best score smoke  </summary>
+    
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/69e6a10b-8c0a-4255-8db5-9283537ade06)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/2c7c6321-c9e3-4daa-846e-12cc35e01f47)
 
   </details>
