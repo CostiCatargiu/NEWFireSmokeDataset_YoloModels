@@ -239,7 +239,7 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/c86e69c8-c32e-4ced-9f05-9c53f200b810)
 
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/6b0b0d2b-6600-4380-bb34-08ae9ed97a4a)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/3d2ae67f-c6cd-466b-af0e-4c7b42a68463)
 
 `Results obtain after inference on VideoNightMixt`
 
