@@ -231,10 +231,13 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 ## Models Comparison Performance metrics
 
-![442449243_1221233025925138_1306563896997288088_n](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/e21944f7-6867-4f65-b425-37c112e8bd08)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/7fe722d6-cb32-47e1-a6f4-19de9223158c)
 
-![436242488_2224528711227104_5248217981150430829_n](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/0793ca53-73e6-403c-823f-d2830a89ee08)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/6a57996c-5895-4dfb-9333-9b325e89482c)
 
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/37554923-f834-4451-951f-211e7471fbd2)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/fae8ff42-f743-4afc-8115-d38337bfbd60)
 
 `Results obtain after inference on VideoDayMixt`
 
