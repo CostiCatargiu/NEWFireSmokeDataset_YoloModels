@@ -1,4 +1,4 @@
-<details>
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/8e23a2b5-e97f-44ba-8083-e5a0f316f7fe)<details>
   <summary>Demo Videos</summary>
 
 https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1eb16936-a51d-4670-9938-d00686cfc406
@@ -157,7 +157,7 @@ The dataset is hosted on the Roboflow platform and consists of two projects. Thi
 
 The distribution of the dataset for Training, Validation, and Testing tasks is illustrated in the figure below.
 
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/be4c06c4-249d-448d-840e-1649cf373619)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/7dc166b5-bf2e-4bb5-8c4d-0c3b3ce5c0d3)
 
 
 To simplify the process, I created a Python script that enables efficient downloading of the dataset for a specific YOLO model. The script is named $\color{red}{\textsf{DownloadFireDataset.py}}$. The script requires two arguments: the first is the model for which you want to download the dataset, and the second is the location where you wish to store the dataset.
@@ -231,7 +231,7 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 ## Models Comparison Performance metrics
 
-`Results obtain after inference on VideoDayMixt`
+`Results obtained after inference on VideoDayMixt`
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/14956439-fdab-414c-8058-e6bb973c1ded)
 
@@ -239,7 +239,7 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/3d2ae67f-c6cd-466b-af0e-4c7b42a68463)
 
-`Results obtain after inference on VideoNightMixt`
+`Results obtained after inference on VideoNightMixt`
 
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/0c455003-66dc-415d-ba73-8229b7998cc8)
 
@@ -250,60 +250,55 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/f4b87a91-494a-4feb-bff3-7a1e42fddd05)
 
 
+## Examples of predictions
+
 <details>
-  <summary>YoloV6 wrong prediction (predict other to be fire) </summary>
+  <summary>YOLOv5m, Gelan-c and YOLOv10b best score for fire and smoke </summary>
   
-![yolov6_missmatch_fire_other](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/487af181-f7c5-4c93-9e98-1c4ed8fa65bd)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/59fa8748-b252-4c8a-985e-b51532b080b8)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/0f6bbd4c-3106-430f-a99e-36ff7897d3ca)
 
   </details>
 
   <details>
-  <summary>YoloV5,V6 and V7 wrong prediction (predict other to be fire) </summary>
+  <summary> YOLOv5m and YOLOv10b best score for smoke; YoloNAS miss smoke detection </summary>
     
-![yolov567_missmatch_fire_other](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ea2381a8-8f3a-4fcc-9a76-dddbc216cadc)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/997d9375-5342-4836-a96b-2905c4a0e095)
 
-  </details>
-    
-`Results obtain after inference on VideoNightMixt`
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ea5491c7-85be-40fc-b8de-5d45da1f387c)
-
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/2a3c7472-a5bc-4dc4-be0b-c14238947982)
-
-  <details>
-  <summary>YoloV7 and Gelan-c wrong prediction (predict smoke to be fire) </summary>
-    
-![Yolov7ANDgelan_missmatch_fire_smoke](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/69fd3629-a9a2-4f9a-a8a1-f7301da4c886)
-
-  </details>
-    
-<details>
-  <summary>YoloV8 and V9 miss detection</summary>
-    
-![Frame 9728_screenshot_02 06 2024](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ff812f14-752b-4c14-97ef-3a8d9f5b9834)
-
-  </details>
-
-  <details>
-  <summary>YoloV5, V8 and Gelan-c wrong prediction (predict other to be fire)</summary>
-    
-![Frame 9728_screenshot_02 06 2024](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ff812f14-752b-4c14-97ef-3a8d9f5b9834)
-
-  </details>
-<details>
-  <summary>All models wrong prediction (predict other to be fire)</summary>
-    
-![Frame 2717_screenshot_02 06 2024](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/3ec4dc42-1d15-4782-af31-3de6099f671e)
-
-
-  </details>
-
-<details>
-  <summary>Smoke detected just by YoloV5,V6 and V8 (difficult scene) </summary>
-    
-
-![Frame 6384_screenshot_03 06 2024](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/ab92d8b3-f937-46c7-984f-4dd8cd229dfe)
-
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/e490b820-8582-4de8-a57e-34d1683dd313)
 
   </details>
   
+  <details>
+  <summary> YOLOv5m best score for smoke and false positve detection for fire; YOLOv10b best score for smoke; YoloNAS miss smoke detection </summary>
+
+  ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/58bd9870-f62b-4bf9-b446-b13871945a47)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/4dae53e3-f628-497f-b741-bcd07d93df15)
+
+  </details>
+  <details>
+  <summary> YOLOv5m and YOLOv10b best score for smoke and fire; YOLOv8m miss fire detection </summary>
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/9027f0a7-650d-4913-8f0c-fadc84e23ad2)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/bfcb6c8d-ec1d-4767-9415-383e56a19824)
+
+  </details>
+  <details>
+  <summary> YOLOv5m, YOLOv10b and Gelan-c best score for smoke and fire; YOLOv6m miss wrong detection for fire </summary>
+    
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/fb9627e1-1588-4a70-adc3-aaff12fa32ac)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/993bbeff-2b35-4f6e-9171-c5b239dd8479)
+
+  </details>
+    <details>
+  <summary> YOLOv5m and YOLOv10b best score for smoke e </summary>
+    
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/066d6d74-30cf-48da-b4e5-d9f4269c7603)
+
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/751b3fc1-3fd5-4f6c-9478-1e1c6a7a11c8)
+
+  </details>
