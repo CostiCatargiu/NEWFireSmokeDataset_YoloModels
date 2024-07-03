@@ -18,7 +18,7 @@ https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/
 
 ## Short Introduction
 
-In this repository, I introduce a  $\color{red}{\textsf{NEW Fire and Smoke Dataset}}$, designed for object detection tasks. I utilize this dataset to train several YOLO models, including   $\color{magenta}{\textsf{ YoloV5, YoloV6, YoloV7, YoloV8, YoloV9, and YoloNAS}}$.
+In this repository, I introduce a  $\color{red}{\textsf{NEW Fire and Smoke Dataset}}$, designed for object detection tasks. I utilize this dataset to train several YOLO models, including   $\color{magenta}{\textsf{ YoloV5, YoloV6, YoloV7, YoloV8, YoloV9,Yolov10 and YoloNAS}}$.
 
 
 ⭐⭐ $\color{orange}{\textsf{Key Features of this repository}}$ ⭐⭐
@@ -157,7 +157,7 @@ The dataset is hosted on the Roboflow platform and consists of two projects. Thi
 
 The distribution of the dataset for Training, Validation, and Testing tasks is illustrated in the figure below.
 
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/034cd2bc-3528-453a-bf51-483ea49e8c84)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/be4c06c4-249d-448d-840e-1649cf373619)
 
 
 To simplify the process, I created a Python script that enables efficient downloading of the dataset for a specific YOLO model. The script is named $\color{red}{\textsf{DownloadFireDataset.py}}$. The script requires two arguments: the first is the model for which you want to download the dataset, and the second is the location where you wish to store the dataset.
@@ -215,7 +215,7 @@ From the image above we can observe also that the training results are stored at
 
 The experimental results are stored on [`Google Drive`](https://drive.google.com/drive/folders/1yrOg-DV_fkiu2aWtRi6ftH_v4MGoTtEd?usp=drive_link) and are publicly accessible.
 
- [`yolov5`](https://drive.google.com/drive/folders/1jltoslzNQDlfKtWE5hHKj3R1x6tCDNsS?usp=drive_link)[`yolov6`](https://drive.google.com/drive/folders/1ks4Pfyn_z3I1cvNHvnJAq22F9X5dNxL5?usp=drive_link)[`yolov7`](https://drive.google.com/drive/folders/1nT1yJqUUFXabUhIQt55M9sS3ruuDs0ez?usp=drive_link)[`yolov8`](https://drive.google.com/drive/folders/1UJlGiR7NXNlk90iQqo96yg9rAd0PsICh?usp=drive_link)[`yolov9`](https://drive.google.com/drive/folders/1sj3SSUyJdlphLDI0y9E3IcpCQN-AKiVz?usp=drive_link)[`yoloNAS`](https://drive.google.com/drive/folders/1QWV3czwYHLIuxVuwPFIeiJ1TSyriS_LF?usp=drive_link)
+ [`yolov5`](https://drive.google.com/drive/folders/1jltoslzNQDlfKtWE5hHKj3R1x6tCDNsS?usp=drive_link)[`yolov6`](https://drive.google.com/drive/folders/1ks4Pfyn_z3I1cvNHvnJAq22F9X5dNxL5?usp=drive_link)[`yolov7`](https://drive.google.com/drive/folders/1nT1yJqUUFXabUhIQt55M9sS3ruuDs0ez?usp=drive_link)[`yolov8`](https://drive.google.com/drive/folders/1UJlGiR7NXNlk90iQqo96yg9rAd0PsICh?usp=drive_link)[`yolov9`](https://drive.google.com/drive/folders/1sj3SSUyJdlphLDI0y9E3IcpCQN-AKiVz?usp=drive_link)[`yolov10`](https://drive.google.com/drive/folders/1WCdLyDEzS8ZQKLtAQ8AoIg3xzIGvWgWP?usp=drive_link)[`yoloNAS`](https://drive.google.com/drive/folders/1QWV3czwYHLIuxVuwPFIeiJ1TSyriS_LF?usp=drive_link)
 
 `Configuration setup used for trainig and testing the proposed Yolo models.`
 
