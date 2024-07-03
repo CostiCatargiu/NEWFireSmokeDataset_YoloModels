@@ -157,7 +157,7 @@ The dataset is hosted on the Roboflow platform and consists of two projects. Thi
 
 The distribution of the dataset for Training, Validation, and Testing tasks is illustrated in the figure below.
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/1e02db0a-0ff6-4f60-ab93-9ba791481e00)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/034cd2bc-3528-453a-bf51-483ea49e8c84)
 
 
 To simplify the process, I created a Python script that enables efficient downloading of the dataset for a specific YOLO model. The script is named $\color{red}{\textsf{DownloadFireDataset.py}}$. The script requires two arguments: the first is the model for which you want to download the dataset, and the second is the location where you wish to store the dataset.
@@ -223,10 +223,10 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
 `Models hyperparameters used for training process.`
 
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/13bf1153-c8bb-4ef7-b164-cc0d64b2c22f)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/d3579f58-27ab-443e-941d-9d934dc56b55)
 
 `Results obtained after evaluation on Test Dataset.`
-![image](https://github.com/CostiCatargiu/FireSmokeDetection_BestDataset/assets/70476115/30ef6620-7ad6-4d14-aff0-3de45ac4d352)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/a96369b1-29d3-4155-9089-726d0bd4f650)
 
 
 ## Models Comparison Performance metrics
