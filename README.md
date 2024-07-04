@@ -299,7 +299,7 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 
   ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/58bd9870-f62b-4bf9-b446-b13871945a47)
 
-![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/4dae53e3-f628-497f-b741-bcd07d93df15)
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/c4f3c3c2-813e-4a87-94d7-51ffec78f335)
 
   </details>
   <details>
