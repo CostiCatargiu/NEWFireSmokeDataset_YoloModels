@@ -248,6 +248,9 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 `Summary Comparison Table.`
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/0510646c-32d9-4a3d-8ccf-8c99c1e2eb71)
 
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/b2d68db7-f278-449a-8568-8f19d1154a4b)
+
+
   </details>
     <details>
   <summary> Results obtained after inference on VideoNightMixt </summary>
