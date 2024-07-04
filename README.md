@@ -270,6 +270,8 @@ The experimental results are stored on [`Google Drive`](https://drive.google.com
 `Summary Comparison Table.`
 ![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/f4b87a91-494a-4feb-bff3-7a1e42fddd05)
 
+![image](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels/assets/70476115/5a47a2de-94c5-4890-98ce-d614a3b8523d)
+
   </details>
 
 ## Examples of predictions
